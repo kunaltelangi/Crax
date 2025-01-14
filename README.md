@@ -1,4 +1,4 @@
-# Crax
+# Crax: AI-Powered CLI Tool
 The Crax project is a command-line interface (CLI) tool written in Rust, designed to interact with OpenAI APIs. It provides multiple features such as interactive chatting, text translation, generating commit messages, writing code, and debugging code.
 
 ## Features
