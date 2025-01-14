@@ -69,13 +69,7 @@ cargo run -- debug <path-to-file> <issue>
 - Tokio: For asynchronous runtime support.
 
 ## Example 
-
-
-
-
-
-
-
+https://github.com/user-attachments/assets/112d9d0b-39c5-4a1b-aa43-f20760215d87
 
 
 Ensure that you have the necessary permissions and access to the specified files when running these commands.
